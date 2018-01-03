@@ -1,0 +1,100 @@
+18 Dec 2017 16:56:06 GMT: Log 'EclipseCompiler.txt' opened: 18 Dec 2017 16:56:06 GMT with name C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\EclipseCompiler.txt
+18 Dec 2017 16:56:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1c400fe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16e340e
+fileObjects = [C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java]
+18 Dec 2017 16:56:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@45b36' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL;C:\Users\aliza\Desktop\acamacho_eborecki\javafoundations;C:\Users\aliza\Desktop\drjava-beta-20160913-225446.exe]
+18 Dec 2017 16:56:17 GMT: Compiler call returned
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e118c
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java LineNo = 23 ColNo = 32 Msg = 'The static method getPanels() from the type InstrumentPanel should be accessed in a static way'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e278f2
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 21 ColNo = 10 Msg = 'Scale is a raw type. References to generic type Scale<T> should be parameterized'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16d513
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 126 ColNo = 14 Msg = 'Type safety: The method getSuccessors(java.lang.Object) belongs to the raw type AdjListGraph. References to generic type AdjListGraph<T> should be parameterized'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cc8dc0
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 126 ColNo = 14 Msg = 'Type safety: The expression of type java.util.LinkedList needs unchecked conversion to conform to java.util.LinkedList<java.lang.String>'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11f4058
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 10 ColNo = 8 Msg = 'The import javafoundations is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d98b21
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 11 ColNo = 8 Msg = 'The import java.util.Scanner is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176264
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Song.java LineNo = 180 ColNo = 10 Msg = 'The value of the local variable dur is not used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3592b
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\AdjListGraph.java LineNo = 36 ColNo = 23 Msg = 'AdjListGraph is a raw type. References to generic type AdjListGraph<T> should be parameterized'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@117de2b
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\AdjListGraph.java LineNo = 37 ColNo = 21 Msg = 'Type safety: Unchecked cast from java.lang.Object to java.util.Vector<T>'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18bde6b
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\AdjListGraph.java LineNo = 40 ColNo = 43 Msg = 'Type safety: Unchecked cast from java.lang.Object to java.util.LinkedList<T>'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@94983c
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\AdjListGraph.java LineNo = 40 ColNo = 28 Msg = 'Type safety: Unchecked cast from java.lang.Object to java.util.LinkedList<T>'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@529004
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Lyrics.java LineNo = 11 ColNo = 8 Msg = 'The import java.util is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@115ea23
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Lyrics.java LineNo = 12 ColNo = 8 Msg = 'The import javafoundations is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@301a6c
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Lyrics.java LineNo = 13 ColNo = 8 Msg = 'The import java.util.Scanner is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d9322e
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Lyrics.java LineNo = 14 ColNo = 8 Msg = 'The import java.io is never used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b4201
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\Lyrics.java LineNo = 19 ColNo = 33 Msg = 'The value of the field Lyrics.syllabels is not used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5ee59
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\StdAudio.java LineNo = 270 ColNo = 30 Msg = 'The value of the local variable ais is not used'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9e7695
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\TitlePanel.java LineNo = 15 ColNo = 14 Msg = 'The serializable class TitlePanel does not declare a static final serialVersionUID field of type long'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18b682a
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\LyricsPanel.java LineNo = 14 ColNo = 14 Msg = 'The serializable class LyricsPanel does not declare a static final serialVersionUID field of type long'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15e6610
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\SongPanel.java LineNo = 18 ColNo = 14 Msg = 'The serializable class SongPanel does not declare a static final serialVersionUID field of type long'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58e9c4
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\FormatMusicText.java LineNo = 94 ColNo = 39 Msg = 'java.util.LinkedList is a raw type. References to generic type java.util.LinkedList<E> should be parameterized'
+18 Dec 2017 16:56:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1270704
+18 Dec 2017 16:56:17 GMT:  Kind = WARNING
+18 Dec 2017 16:56:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\FormatMusicText.java LineNo = 94 ColNo = 35 Msg = 'Type safety: The expression of type java.util.LinkedList needs unchecked conversion to conform to java.util.LinkedList<java.lang.String>'
+18 Dec 2017 16:59:10 GMT: Log 'EclipseCompiler.txt' opened: 18 Dec 2017 16:59:10 GMT with name C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\EclipseCompiler.txt
+18 Dec 2017 16:59:17 GMT: diagnostics = javax.tools.DiagnosticCollector@1537f8b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f76dcc
+fileObjects = [C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java]
+18 Dec 2017 16:59:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@31a564' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL;C:\Users\aliza\Desktop\acamacho_eborecki\javafoundations;C:\Users\aliza\Desktop\drjava-beta-20160913-225446.exe]
+18 Dec 2017 16:59:17 GMT: Compiler call returned
+18 Dec 2017 16:59:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f069c8
+18 Dec 2017 16:59:17 GMT:  Kind = WARNING
+18 Dec 2017 16:59:17 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java LineNo = 23 ColNo = 32 Msg = 'The static method getPanels() from the type InstrumentPanel should be accessed in a static way'
+18 Dec 2017 17:00:42 GMT: diagnostics = javax.tools.DiagnosticCollector@208a83
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d4aa30
+fileObjects = [C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java]
+18 Dec 2017 17:00:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4a02a6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL;C:\Users\aliza\Desktop\acamacho_eborecki\javafoundations;C:\Users\aliza\Desktop\drjava-beta-20160913-225446.exe]
+18 Dec 2017 17:00:42 GMT: Compiler call returned
+18 Dec 2017 17:00:42 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4b4201
+18 Dec 2017 17:00:42 GMT:  Kind = WARNING
+18 Dec 2017 17:00:42 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java LineNo = 23 ColNo = 32 Msg = 'The static method getPanels() from the type InstrumentPanel should be accessed in a static way'
+18 Dec 2017 17:01:39 GMT: diagnostics = javax.tools.DiagnosticCollector@165b056
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f2a99f
+fileObjects = [C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java, C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\TitlePanel.java]
+18 Dec 2017 17:01:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a6f1a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL;C:\Users\aliza\Desktop\acamacho_eborecki\javafoundations;C:\Users\aliza\Desktop\drjava-beta-20160913-225446.exe]
+18 Dec 2017 17:01:40 GMT: Compiler call returned
+18 Dec 2017 17:01:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d5463
+18 Dec 2017 17:01:40 GMT:  Kind = WARNING
+18 Dec 2017 17:01:40 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\MusiqueGUI.java LineNo = 23 ColNo = 32 Msg = 'The static method getPanels() from the type InstrumentPanel should be accessed in a static way'
+18 Dec 2017 17:01:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17d8c3e
+18 Dec 2017 17:01:40 GMT:  Kind = WARNING
+18 Dec 2017 17:01:40 GMT: Name = C:\Users\aliza\Downloads\phase3\ABSOLUTE_FINAL_ALL\TitlePanel.java LineNo = 15 ColNo = 14 Msg = 'The serializable class TitlePanel does not declare a static final serialVersionUID field of type long'

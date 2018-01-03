@@ -1,0 +1,11 @@
+Labor Plan
+
+The labor plan of our project split the the frontend and backend into two jobs. One person would work on the the frontend job, then two people would work on the backend job.
+
+On the Back end:
+Emily made the Song class that was interacted with through the GUI and the lyrics class that broken down the lyrics into corresponding syllables for each note to be assigned to. Liz made 10 graphs of major and minor scales with text files and the corresponding Scale class create a type of graph that is a scale. Emily also created a hash table to go from note to frequency. 
+
+
+On the Front end:
+Aliza made the GUI through a cardlayout object consisting of 3 panels the GUI will switch between. She then created the FormatMusicText class to format the textfile that would be given from the back end side. In the class she withdrew all information from the textfile the GUI would need to display. On the GUI, instead of using the text fonts available to the java GUI, she used images and screenshots then displayed them on the labels.
+
